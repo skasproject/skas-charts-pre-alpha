@@ -3,10 +3,10 @@ entries:
   skas:
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-12-07T21:20:34.40967+01:00"
-    digest: f54cec1bd018acfe3e287520a837a098ccdffce758cf44f2859698e646aacd93
+    created: "2023-12-07T21:22:24.358378+01:00"
+    digest: bbe5ac43bdc0179deaad5a3b2fecab77677735c65f2947f60c13d5c01ced0537
     name: skas
     urls:
     - https://skasproject.github.io/skas-charts-pre-alpha/charts/skas-0.2.2.tgz
     version: 0.2.2
-generated: "2023-12-07T21:20:34.407419+01:00"
+generated: "2023-12-07T21:22:24.356134+01:00"
