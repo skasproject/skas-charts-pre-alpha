@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   skas:
   - apiVersion: v2
-    appVersion: 0.2.2-pre-alpha
-    created: "2023-12-12T16:56:11.788073+01:00"
+    appVersion: 0.2.2.pre-alpha
+    created: "2023-12-12T17:03:07.103185+01:00"
     description: A Helm chart for SKAS, a kubernetes authentication system
-    digest: 9853c5c80fe0835d085146a451951151966197e07750dde84dc9385caf6139ba
+    digest: 2cba0b4db5ce8d29986bcbafece666a23b2208abe5b5024ccf24748acc061c4b
     keywords:
     - skasproject
     - authentication
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://skasproject.github.io/skas-charts-pre-alpha/charts/skas-0.2.2.tgz
     version: 0.2.2
-generated: "2023-12-12T16:56:11.785601+01:00"
+generated: "2023-12-12T17:03:07.100672+01:00"
