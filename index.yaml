@@ -3,10 +3,22 @@ entries:
   skas:
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2023-12-07T21:23:55.655668+01:00"
-    digest: 3e8eeebd60c1bc210658f24743f568e6b44f88199c313f170ce22cb25b97f260
+    created: "2023-12-12T11:24:11.299462+01:00"
+    description: A Helm chart for SKAS, a kubernetes authentication system
+    digest: ff08146afe258c29663f5b45782eb24ab60a5ddef54d2e7417c9cf5cf1c68cfd
+    keywords:
+    - skasproject
+    - authentication
+    - oidc
+    - ldap
+    - kubectl
+    maintainers:
+    - name: skasproject
+      url: https://github.com/skasproject
     name: skas
+    sources:
+    - https://github.com/skasproject/skas
     urls:
     - https://skasproject.github.io/skas-charts-pre-alpha/charts/skas-0.2.2.tgz
     version: 0.2.2
-generated: "2023-12-07T21:23:55.653384+01:00"
+generated: "2023-12-12T11:24:11.295547+01:00"
